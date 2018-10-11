@@ -3,7 +3,7 @@
 ## TODO list
    - [x] Any test
    - [x] Mock spring component
-   - [ ] Mock eq, any
+   - [x] Mock any and closure when
    - [ ] Mock verify
    - [ ] Run parametrized
    - [ ] Run paramterized spring app 
