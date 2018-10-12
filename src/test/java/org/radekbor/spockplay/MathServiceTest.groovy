@@ -63,4 +63,5 @@ class MathServiceTest extends Specification {
 		then:
 			x == 1.4D
 	}
+
 }
