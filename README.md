@@ -5,5 +5,5 @@
    - [x] Mock spring component
    - [x] Mock any and closure when
    - [x] Mock verify
-   - [ ] Run parametrized
+   - [x] Run parametrized
    - [ ] Run paramterized spring app 
